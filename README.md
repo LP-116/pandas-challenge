@@ -1,8 +1,7 @@
 # Pandas Challenge
-## Pandas Homework - Heroes of Pymoli
+## Heroes of Pymoli
 
 ### Task
-For this homework task I have chosen to complete the Heroes of Pymoli option.
 
 In this challenge we are asked to analyse a company's purchasing data relating to the Heroes of Pymoli game.
 
